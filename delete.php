@@ -19,7 +19,7 @@
     }
     ?>
     <article>
-        <p>削除すると元には戻せません。</p><br>
+        <p>削除すると元には戻せません</p><br>
         <a href="delete_do.php?id=<?php print ($menu['id']) ?>">削除する</a>
     </article>
     <br>
