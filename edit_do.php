@@ -19,4 +19,8 @@
     <p>変更しました</p>
     <a href="index.php">戻る</a>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> origin/master

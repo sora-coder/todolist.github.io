@@ -34,4 +34,8 @@
     ／
     <a href="delete_do.php?id=<?php print ($memo['id']) ?>">削除する</a>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> origin/master

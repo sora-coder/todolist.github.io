@@ -47,4 +47,8 @@
         <?php endif ?>
     </nav>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> origin/master
